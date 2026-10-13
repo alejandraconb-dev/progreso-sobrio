@@ -115,14 +115,18 @@ La parte de los recordatorios sí calzaba, así que la convertimos en el [issue 
 <div align="left">
   <img align="center" 
     <img width="16" />
-    <img align="center" src="devicon-vite-original-wordmark" height="44" alt="vite logo"  />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" height="44" alt="vite logo"  />
       <img width="16" />
     <img align="center" src="devicon-react-original-wordmark colored" height="44" alt="react logo"  />
       <img width="16" />
     <img align="center" src="devicon-typescript-plain colored" height="44" alt="typescript logo"  />
       <img width="16" />
     <img align="center" src="devicon-tailwindcss-plain-wordmark colored" height="44" alt="tailwindcss logo"  />
+
+
          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" />
+          
         
 ### Gestor de paquetes:
 
