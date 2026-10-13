@@ -124,7 +124,7 @@ La parte de los recordatorios sí calzaba, así que la convertimos en el [issue 
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="48" alt="tailwindcss logo"  />     
           
         
-### 📌Gestor de paquetes:
+### Gestor de paquetes:
 
  <div align="left">
   <img align="center" 
