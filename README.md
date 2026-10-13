@@ -117,15 +117,11 @@ La parte de los recordatorios sí calzaba, así que la convertimos en el [issue 
     <img width="16" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" height="44" alt="vite logo"  />
       <img width="16" />
-    <img align="center" src="devicon-react-original-wordmark colored" height="44" alt="react logo"  />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="44" alt="react logo"  />
       <img width="16" />
-    <img align="center" src="devicon-typescript-plain colored" height="44" alt="typescript logo"  />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="44" alt="typescript logo"  />
       <img width="16" />
-    <img align="center" src="devicon-tailwindcss-plain-wordmark colored" height="44" alt="tailwindcss logo"  />
-
-
-         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="44" alt="tailwindcss logo"  />     
           
         
 ### Gestor de paquetes:
@@ -133,7 +129,7 @@ La parte de los recordatorios sí calzaba, así que la convertimos en el [issue 
  <div align="left">
   <img align="center" 
     <img width="16" />
-    <img align="center" src="devicon-pnpm-plain-wordmark colored" height="40" alt="pnpm logo"  />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original-wordmark.svg" height="40" alt="pnpm logo"  />
     
  
   [Dexie.js](https://dexie.org/) sobre IndexedDB para todo el almacenamiento local, y Recharts para las gráficas. 
