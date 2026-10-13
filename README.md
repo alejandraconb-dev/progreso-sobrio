@@ -131,7 +131,7 @@ La parte de los recordatorios sí calzaba, así que la convertimos en el [issue 
     <img width="20" />
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original-wordmark.svg" height="48" alt="pnpm logo"  />
     
-</br></br>
+</br>
  
   [Dexie.js](https://dexie.org/) sobre IndexedDB para todo el almacenamiento local, y Recharts para las gráficas. 
   
